@@ -25,7 +25,6 @@
     <button class="btn btn-primary mt-2">Submit</button>
     <button class="btn btn-danger mt-2" type="reset">Cancel</button>
 </form>
-
 <a href="/student" ><button class="btn mb-2 btn-info">Home</button></a>
 <hr/>
 
